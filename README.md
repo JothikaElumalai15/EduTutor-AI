@@ -35,7 +35,7 @@ The goal is to show how generative AI can support **personalized learning** and 
 
 ## 🔗 How to Run the Project  
 1. Open the notebook in Colab:  
-   [EduTutorAI.ipynb](https://colab.research.google.com/github/KeerthanaGoutham/EduTutor-AI/blob/main/EduTutorAI.ipynb)  
+   [EduTutorAI.ipynb](https://colab.research.google.com/github/JothikaElumalai15/EduTutor-AI)
 2. Run the setup cell to install dependencies.  
 3. Run the app cell → a **Gradio link** will appear.  
 4. Open the link → try Concept Explanation & Quiz Generator tabs.  
