@@ -29,10 +29,6 @@ The goal is to show how generative AI can support **personalized learning** and 
 - `README.md` → Project description and links.  
 
 
-## ▶️ Demo Video  
-👉 [Watch here](PASTE-YOUR-GOOGLE-DRIVE-LINK)  
-
-
 ## 🔗 How to Run the Project  
 1. Open the notebook in Colab:  
    [EduTutorAI.ipynb](https://colab.research.google.com/github/JothikaElumalai15/EduTutor-AI)
